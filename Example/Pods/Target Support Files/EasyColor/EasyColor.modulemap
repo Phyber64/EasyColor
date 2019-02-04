@@ -1,0 +1,6 @@
+framework module EasyColor {
+  umbrella header "EasyColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

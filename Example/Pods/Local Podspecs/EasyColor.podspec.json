@@ -1,0 +1,22 @@
+{
+  "name": "EasyColor",
+  "version": "0.1.0",
+  "summary": "A short description of EasyColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Phyber64/EasyColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Phyber64": "hanzlikale@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Phyber64/EasyColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EasyColor/Classes/**/*"
+}

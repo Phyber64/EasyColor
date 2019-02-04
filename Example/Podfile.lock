@@ -1,0 +1,16 @@
+PODS:
+  - EasyColor (0.1.0)
+
+DEPENDENCIES:
+  - EasyColor (from `../`)
+
+EXTERNAL SOURCES:
+  EasyColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyColor: 2c95fec44d530fe171c917fd81e2502e0d7fab8b
+
+PODFILE CHECKSUM: bad474f07c7ccaedd9328818c410640fdc22fd43
+
+COCOAPODS: 1.5.3
