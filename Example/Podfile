@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EasyColor_Example' do
+  pod 'EasyColor', :path => '../'
+
+  target 'EasyColor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
