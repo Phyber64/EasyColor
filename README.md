@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![img](https://imgur.com/HxLV5qq.png)
+![img](https://imgur.com/UarVK8d.png)
 
 ## Example
 
